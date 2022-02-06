@@ -1,0 +1,15 @@
+name = "SassC_jll"
+uuid = "e813748c-f071-5ac4-9ddd-9e9e72545407"
+version = "3.6.2+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+libsass_jll = "47bcb7c8-5119-555a-9eeb-0afcc36cd728"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+libsass_jll = "3.6.4"
